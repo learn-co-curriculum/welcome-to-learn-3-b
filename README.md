@@ -8,9 +8,9 @@ See, all these graphics, all the beautiful visual and stunning effects you exper
 
 We're going to focus right now on introducing you to the three main tools you'll use as a software developer: 
 
-A Terminal
-A Text Editor
-A Programming Language and Interpreter
+1. A Terminal
+2. A Text Editor
+3. A Programming Language and Interpreter
 
 Luckily, we've bundled all 3 of these into one tool, called an “integrated development environment” or the Learn IDE for short..
 
