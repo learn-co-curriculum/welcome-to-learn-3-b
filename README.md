@@ -22,6 +22,8 @@ Let's start talking about the Terminal, also known as the shell.
 
 Under the hood of your operating system, underneath all of the programs you use every day, is the shell. The shell is the programmer's workbench, and we live in it. The shell is our command line, the place from which we give our computer raw instructions and play with its machinery. The shell is the capital T Terminal to travel the world of software. Every application, every program, from Wikipedia, to Candy Crush, to Google, to Facebook, in fact the world wide web itself, all software is born here, from a shell just like this. I wonder what you'll build?
 
+<img src="http://learn-co-videos.s3.amazonaws.com/welcome/terminal.png" style="width:100%" />
+
 What we do from our shell includes running the programs we're building, navigating our file system, and executing system tasks, all things we're going to talk about a bit more later. The shell we're going to use is built into the Learn IDE.
 
 The next thing we need to know about is called a text editor and it's basically exactly what it sounds like: a program to edit raw text. When we write code, it's really just text in a programming language that we save as a file. Think of it like Microsoft Word but instead of being used to write essays and letters, use it  to write code. So instead of spell check and other things that are useful when we're creating a document, our text editor is built to make writing code more pleasant, doing things like autocompleting common lines and allowing us to easily nest blocks of text. The text editor built into the Learn IDE is based on an editor called Atom, which was made by the good people at GitHub. It is one of the most popular, extensible and powerful text editors ever created.
