@@ -26,7 +26,11 @@ Under the hood of your operating system, underneath all of the programs you use 
 
 What we do from our shell includes running the programs we're building, navigating our file system, and executing system tasks, all things we're going to talk about a bit more later. The shell we're going to use is built into the Learn IDE.
 
-The next thing we need to know about is called a text editor and it's basically exactly what it sounds like: a program to edit raw text. When we write code, it's really just text in a programming language that we save as a file. Think of it like Microsoft Word but instead of being used to write essays and letters, use it  to write code. So instead of spell check and other things that are useful when we're creating a document, our text editor is built to make writing code more pleasant, doing things like autocompleting common lines and allowing us to easily nest blocks of text. The text editor built into the Learn IDE is based on an editor called Atom, which was made by the good people at GitHub. It is one of the most popular, extensible and powerful text editors ever created.
+The next thing we need to know about is called a text editor and it's basically exactly what it sounds like: a program to edit raw text. When we write code, it's really just text in a programming language that we save as a file. Think of it like Microsoft Word but instead of being used to write essays and letters, use it  to write code. So instead of spell check and other things that are useful when we're creating a document, our text editor is built to make writing code more pleasant, doing things like autocompleting common lines and allowing us to easily nest blocks of text. 
+
+<img src="http://learn-co-videos.s3.amazonaws.com/welcome/editor.png" style="width:100%" />
+
+The text editor built into the Learn IDE is based on an editor called Atom, which was made by the good people at GitHub. It is one of the most popular, extensible and powerful text editors ever created.
 
 OK, now that we can write code in our editor and run system commands in our shell, the final piece of the puzzle is understanding how to execute or compile the code we write as we build programs.
 
