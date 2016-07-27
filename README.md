@@ -4,6 +4,8 @@ By now, you're hopefully getting excited about learning to code. Let's start div
 
 The first thing we need to learn when it comes to programming is how to think of and use our computer a bit differently. It's time for you to start thinking of your computer as a tool for creation. We're used to using our computer as a means for consumption: to browse the internet, check out some cute cat pics, browse Facebook, check your email. But as a programmer, our computer is our tool, it's how we create new things, what we use to build and practice our craft, to earn a living. So we're going to use it a bit differently.
 
+<img src="http://learn-co-videos.s3.amazonaws.com/welcome/guivscli.png" style="width:100%" />
+
 See, all these graphics, all the beautiful visual and stunning effects you experience on your computer, they are just the tip of the iceberg. They are the frontend, the end-user-interface, the outcome of what programmers have built and how people use software. But underneath this graphical user interface is your operating system, and that's where we, as software developers, live. Think of it as the difference between being the driver of a car, only knowing how to use a car, and being a mechanic, capable of looking under the hood and fixing things.
 
 We're going to focus right now on introducing you to the three main tools you'll use as a software developer: 
@@ -12,7 +14,7 @@ We're going to focus right now on introducing you to the three main tools you'll
 2. A Text Editor
 3. A Programming Language and Interpreter
 
-Luckily, we've bundled all 3 of these into one tool, called an “integrated development environment” or the Learn IDE for short..
+Luckily, we've bundled all 3 of these into one tool, called an “integrated development environment” or the Learn IDE for short.
 
 Let's start talking about the Terminal, also known as the shell.
 
