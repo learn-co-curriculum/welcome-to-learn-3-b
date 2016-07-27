@@ -16,6 +16,8 @@ We're going to focus right now on introducing you to the three main tools you'll
 
 Luckily, we've bundled all 3 of these into one tool, called an “integrated development environment” or the Learn IDE for short.
 
+<img src="http://learn-co-videos.s3.amazonaws.com/welcome/ide-components.png" style="width:100%" />
+
 Let's start talking about the Terminal, also known as the shell.
 
 Under the hood of your operating system, underneath all of the programs you use every day, is the shell. The shell is the programmer's workbench, and we live in it. The shell is our command line, the place from which we give our computer raw instructions and play with its machinery. The shell is the capital T Terminal to travel the world of software. Every application, every program, from Wikipedia, to Candy Crush, to Google, to Facebook, in fact the world wide web itself, all software is born here, from a shell just like this. I wonder what you'll build?
