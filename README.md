@@ -1,4 +1,11 @@
 # How Software is Developed
+
+Let's start diving into the details and show you how professional software developers write software.
+
+The first thing we need to learn when it comes to programming is how to think of and use our computer a bit differently.
+
+<img src="http://learn-co-videos.s3.amazonaws.com/welcome/guivscli.png" style="width:100%" />
+
 We're going to focus right now on introducing you to the three main tools you'll use as a software developer: 
 
 1. A Terminal
