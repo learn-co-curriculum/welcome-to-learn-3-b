@@ -10,7 +10,7 @@ We're going to focus right now on introducing you to the three main tools you'll
 
 1. A Terminal
 2. A Text Editor
-3. A Programming Language and Interpreter
+3. A Programming Language ansdfd Interpreter
 
 Luckily, we've bundled all three of these into one tool, called an “integrated development environment” or the Learn IDE for short.
 
