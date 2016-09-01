@@ -1,6 +1,6 @@
 # How Software is Developed
 
-Let's start diving into the details and show you how professional software developers write software.
+'s start diving into the details and show you how professional software developers write software.
 
 The first thing we need to learn when it comes to programming is how to think of and use our computer a bit differently.
 
