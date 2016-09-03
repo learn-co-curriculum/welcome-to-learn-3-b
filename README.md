@@ -42,7 +42,7 @@ Now that we can write code in our editor and run system commands in our shell, t
 
 Let's look at this in more detail. 
 
-When we want to run or execute our program, we have to tell the computer to do so. Before the computer can follow our instructions and run our program, the computer has to convert the code from the programming language we wrote it in to machine code. The conversion process from a programming language to machine code is called "compiling" (also sometimes called executing or running or interpreting) and it is done through a program called an interpreter. Every programming language comes with an interpreter that you can use to “run” your programs, which means sending the code you've written to be converted and executed by the computer. 
+When we want to run or execute our program, we have to tell the computer to do so. Before the computer can follow our instructions and run our program, the computer has to convert the code from the programming language we wrote it in to machine code. The conversion process from a programming language to machine code is called "compiling" (also sometimes called executing or running or interpreting) and it is done through a program called an interpreter. Every programming language comes with an interpreter that you can use to “run” your programs. 
 
 This is the programming process: write code in a programming language of your choosing using your favorite text editor, save the file, then execute your program by sending that file to the interpreter using your command line. 
 
